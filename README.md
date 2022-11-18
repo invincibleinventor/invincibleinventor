@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @invincibleinventor
-- 👀 I’m interested in Web Technologies (Vanilla, Node and Svelte JS) and Python
-- 🌱 I’m currently working on my frontend skills
+- 👀 I’m good at working with React JS, React Native, Node JS, Svelte JS, TailwindCSS, Next JS, Qwik JS, Postgresql, Graphql, GCP, Figma
+- 🌱 I’m currently working on my frontend skills and preach #OSS🐧 as a service ♥️
