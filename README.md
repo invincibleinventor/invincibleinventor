@@ -15,7 +15,7 @@ I'm a **Second-year Computer Science undergraduate** at SASTRA Deemed to be Univ
 
 ---
 
-### 🌟 Featured Project: [macOS-next](https://baladev.in)
+### 🌟 Featured Project: [macOS-next](https://github.com/invincibleinventor/macos)
 
 > A "Portfolio OS" simulation built with Next.js 15 & React 19.
 
