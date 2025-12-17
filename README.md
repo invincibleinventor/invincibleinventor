@@ -1,7 +1,7 @@
 # Hi there, I'm Bala TBR! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=280&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=ffffff&desc=Second%20Year%20CS%20Student%20@%20SASTRA%20University&descSize=20&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=280&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=ffffff&desc=Second%20Year%20CS%20Student%20@%20SASTRA%20University&descSize=20&descAlign=50&descAlignY=70" alt="Header" width="100%"/>
 </div>
 
 ### 👨‍💻 About Me
