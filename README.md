@@ -15,12 +15,12 @@ I'm a **Second-year Computer Science undergraduate** at SASTRA Deemed to be Univ
 
 ---
 
-### 🌟 Featured Project: [macOS-next](https://github.com/invincibleinventor/macos)
+### 🌟 Featured Project: [NextarOS](https://github.com/invincibleinventor/nextar-os)
 
-> A "Portfolio OS" simulation built with Next.js 15 & React 19.
+> A web based operating system simulation built with Next.js 15 & React 19. Features a virtual file system, window manager, app APIs, convergent UI, theming and more
 
 <a href="https://baladev.in">
-  <img src="https://raw.githubusercontent.com/invincibleinventor/macos/main/public/appimages/macos-next.png" width="100%" alt="macOS-next Screenshot" />
+  <img src="https://raw.githubusercontent.com/invincibleinventor/nextar-os/main/public/appimages/NextarOS.png" width="100%" alt="NextarOS Screenshot" />
 </a>
 
 ---
